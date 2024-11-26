@@ -1,4 +1,4 @@
-package SingletonHolder;
+package singletonHolder;
 
 public class Singleton {
 
