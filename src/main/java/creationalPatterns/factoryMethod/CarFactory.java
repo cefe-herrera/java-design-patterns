@@ -1,4 +1,4 @@
-package factoryMethod;
+package creationalPatterns.factoryMethod;
 
 public class CarFactory extends VehicleFactory{
 

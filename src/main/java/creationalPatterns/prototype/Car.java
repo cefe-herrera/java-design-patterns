@@ -1,4 +1,4 @@
-package prototype;
+package creationalPatterns.prototype;
 
 public class Car implements Cloneable{
 

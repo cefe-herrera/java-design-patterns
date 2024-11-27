@@ -1,4 +1,4 @@
-package singletonHolder;
+package creationalPatterns.singletonHolder;
 
 public class Singleton {
 

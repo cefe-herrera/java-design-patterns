@@ -1,4 +1,4 @@
-package singletonThreadSafe;
+package creationalPatterns.singletonThreadSafe;
 
 public class Singleton {
     /*

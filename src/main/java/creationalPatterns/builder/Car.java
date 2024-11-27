@@ -1,4 +1,4 @@
-package builder;
+package creationalPatterns.builder;
 
 public class Car {
     private final String make;

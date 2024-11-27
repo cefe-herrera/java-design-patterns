@@ -1,4 +1,4 @@
-package factoryMethod;
+package creationalPatterns.factoryMethod;
 
 public abstract class VehicleFactory {
 
